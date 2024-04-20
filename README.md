@@ -1,7 +1,7 @@
 # Canon.com/ijsetup – Downloading and Installing Canon Printer Driver
 
 
- [![canon.com/ijsetup](getstarteb.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+ [![canon.com/ijsetup](getstarteb.png)](https://can.printredir.com)
 
 
 
